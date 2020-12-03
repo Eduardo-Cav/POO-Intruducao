@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.exe
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.deps.json
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.dll
+E:\Meus Documentos\Área de Trabalho\poo\bin\Debug\netcoreapp3.1\Nova pasta.pdb
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.dll
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.pdb
+E:\Meus Documentos\Área de Trabalho\poo\obj\Debug\netcoreapp3.1\Nova pasta.genruntimeconfig.cache
