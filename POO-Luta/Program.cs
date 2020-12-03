@@ -12,7 +12,7 @@ namespace Nova_pasta
           Personagem jogador1 = new Personagem();
           jogador1.nome = "dextroN";
           jogador1.idade = 16;
-          jogador1.armadura = "adidas";
+          jogador1.armadura = "Traje Adidas";
 
           Personagem jogador2 = new Personagem();
           jogador2.nome = "Natox";
