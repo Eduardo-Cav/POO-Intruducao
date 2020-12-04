@@ -19,7 +19,19 @@ namespace AulaPOOCelular.Celular
 
         public bool ligado;
 
-        public void LigarCelular(string ligandoCelular){
+        public bool ligarCell;
+
+        public bool desligandoCelular;
+
+        public string ligacao;
+
+        public string pessoa;
+
+        public string contato;
+
+        public string mensagem;
+
+          public void LigarCelular(bool ligandoCelular){
             Console.WriteLine("Ligar celular? S/N");
             string ligarCell = Console.ReadLine();
 
@@ -32,7 +44,7 @@ namespace AulaPOOCelular.Celular
             }
 
         }
-        public void DesligarCelular(string desligandoCelular){
+        public void DesligarCelular(bool desligandoCelular){
             Console.WriteLine("desligar celular? S/N");
             string desligarCell = Console.ReadLine();
 
@@ -45,7 +57,7 @@ namespace AulaPOOCelular.Celular
             }
         
         }
-        public void FazerLigacao(string ligação, string pessoa){
+        public void FazerLigacao(string ligacao, string pessoa){
             Console.WriteLine("Digite um contato para ligar: ");
             pessoa = Console.ReadLine();
             
