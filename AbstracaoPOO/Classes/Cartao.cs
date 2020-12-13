@@ -5,22 +5,19 @@ namespace AbstracaoPOO.Classes
         public string bandeira;
 
         public string numero;
+        
+        public string data;
+
+        public string Numero{
+            get{return numero;}
+        } 
 
         public string titular;
 
         public string cvv;
 
-        public string SalvarCartao(){
-            return "";
-        }
-        public override string Desconto(float valor)
-        {
-            return "";
-        }
+        public abstract void Pagar();
 
-        public override string Juros(float parcelas)
-        {
-            throw new System.NotImplementedException();
-        }
+        public abstract void Processamento();
     }
 }

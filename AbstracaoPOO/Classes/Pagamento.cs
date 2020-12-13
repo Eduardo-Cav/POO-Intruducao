@@ -6,16 +6,16 @@ namespace AbstracaoPOO.Classes
     {
         private DateTime data;
 
+        public DateTime Data{get; set;}
+
         protected float valor;
+
+        public float Valor{get;set;}
 
         public string Cancelar(){
            return "";
         }
-
-
-        // Obrigatório nas classses herdadas
-        public abstract string Desconto(float valor);
-
-        public abstract string Juros(float parcelas);
+      
+  
     }
 }
