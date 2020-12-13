@@ -77,14 +77,14 @@ namespace AbstracaoPOO.Classes
             parcelas = int.Parse(Console.ReadLine());
 
             if(parcelas > 12){
-                Console.WriteLine("Valor inválido!");
+                Console.WriteLine("Valor inválido");
             }
             } while (parcelas > 12);
             
             if(parcelas < 7){
                 valorParcelado = (Valor * 0.05f) + Valor;
-            Console.WriteLine($"O valor da sua compra foi de: {Valor} para {valorParcelado} por conta da taxa de 5%");
-            }else if(parcelas > 7 && parcelas <= 12){
+                Console.WriteLine($"O valor da sua compra foi de: {Valor} para {valorParcelado} por conta da taxa de 5%");
+            }else if(parcelas >= 7 && parcelas <= 12){
                 valorParcelado = (Valor * 0.08f) + Valor;
             Console.WriteLine($"O valor da sua compra foi de: {Valor} para {valorParcelado} por conta da taxa de 8%");
             }
