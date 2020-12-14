@@ -13,22 +13,18 @@ namespace HerancaPOO
 
             //Atribuimos um cpf ao objeto
         
-            pf.nome = "Eduardo Ferreira";
+          Console.WriteLine("Digite seu cpf: ");
+          string cpf = Console.ReadLine();
+          
+          Console.WriteLine(PessoaFisica.IsCpf(cpf));
 
-            pf.cpf = "46898539833";
-
-            pj.cnpj = "123.456.789/1011-12"; 
-
-            pj.inscricaoEstadual = "969.290.975.939";
 
 
             //Chamamos nosso metódo de saudação dentro de um consolewriteline
-            Console.WriteLine(pf.darBoasVindas(pf.nome));  
+            
 
             //Chamamos nosso metódo de validação de cpf dentro de um consolewriteline
-            Console.WriteLine(pf.ValidarCPF(pf.cpf));
-            
-            Console.WriteLine(pj.ValidarCNPJ(pj.cnpj));
+         
         }
     }
 }
