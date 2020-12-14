@@ -22,45 +22,57 @@ namespace AulaPOOCelular
             Console.WriteLine("Tamanho do celular: ");
             Samsung.tamanho = Console.ReadLine();
 
-                
-            Samsung.LigarCelular(Samsung.ligarCell);                                     
-                
-            int escolha;
 
+            Console.WriteLine($"Celular: {Samsung.modelo}");
+            Console.WriteLine($"Cor: {Samsung.cor}");
+            Console.WriteLine($"Tamanho: {Samsung.tamanho}");   
+            
+            Console.WriteLine("Deseja Ligar o celular? S/N");
+            string escolha = Console.ReadLine();
+            
+            int escolher;
 
-            do{
+            switch (escolha)
+            {
+                case "S":
+                Samsung.LigarCelular();
+                do
+                {
+                    
                 Console.WriteLine("O que deseja?");
                 Console.WriteLine("[1] - Desligar celular");
                 Console.WriteLine("[2] - Enviar Mensagem");
                 Console.WriteLine("[3] - Fazer Ligação");
                 Console.WriteLine("[0] - menu");
-
-                escolha = int.Parse(Console.ReadLine());
-
-                switch (escolha)
+                escolher = int.Parse(Console.ReadLine());
+                    
+                switch (escolher)
                 {
-                    case 1:
-                    Samsung.DesligarCelular(Samsung.desligandoCelular);
-                    break;
-
+                    case 1:                                      
+                    Samsung.DesligarCelular();                  
+                      break;
                     case 2:
-                    Samsung.EnviarMensagem(Samsung.contato, Samsung.mensagem);
+                    Samsung.EnviarMensagem();
                     break;
-
                     case 3:
-                    Samsung.FazerLigacao(Samsung.ligacao, Samsung.pessoa);
+                    Samsung.FazerLigacao();
                     break;
-
-                    case 0:
-                    Console.WriteLine("Ir para menu");
-                    break;
-
                     default:
-                    Console.WriteLine("Digite um numero válido");
-                        break;
+                    Console.WriteLine("Saindo para o menu");
+                    break;
                 }
                 
-            }while(escolha != 0);
+                } while (escolher != 1);
+                    break;
+                case "N": 
+                Console.WriteLine("Celular Desligado.");
+                break;
+                default:
+                    break;
+            }
+        
+    
+
         }
     }
 }
