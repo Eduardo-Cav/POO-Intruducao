@@ -33,17 +33,11 @@ namespace AulaPOOCelular.Celular
     
         }
         public void DesligarCelular(){
-            Console.WriteLine("desligar celular? (true or false)");
-            bool desligarCell = bool.Parse(Console.ReadLine());
-
-                
-            if(desligarCell == true){
+               
                 Console.WriteLine("desligando Celular...");
                 System.Threading.Thread.Sleep(1000);
                 Console.WriteLine("Celular desligado!");
-            }else if(desligarCell == false){
-                Console.WriteLine("Celular permanece ligado");
-            }    
+            
         
            
         }
