@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_In
 C:\Users\dev\Desktop\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.dll
 C:\Users\dev\Desktop\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.pdb
 C:\Users\dev\Desktop\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.exe
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.deps.json
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.dll
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.pdb
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.dll
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.pdb
+E:\Meus Documentos\Área de Trabalho\POO-Intruducao\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.genruntimeconfig.cache

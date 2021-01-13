@@ -1,17 +1,18 @@
 namespace POO_Interface.Classes
 {
+    //nao se instacia interclasse, usada apenas para implementar metódos
     public interface ICarrinho
     {
-        //create
-        void Listar();
-
-        //read
+        //create - cadastrar
         void Cadastrar(Produto product);
 
-        //update
+        //read - ler 
+        void Listar();
+
+        //update - alterar/atualizar
         void Alterar(int code, Produto product);
 
-        //delete
+        //delete - deletar/apagar
         void Deletar(Produto product);
 
     }

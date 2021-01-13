@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj": {}
+    "E:\\Meus Documentos\\Área de Trabalho\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj",
         "projectName": "POO_Interface",
-        "projectPath": "C:\\Users\\dev\\Desktop\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\POO-Intruducao\\POO_Interface\\obj\\",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\POO-Intruducao\\POO_Interface\\POO_Interface.csproj",
+        "packagesPath": "C:\\Users\\eduzi\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\POO-Intruducao\\POO_Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\eduzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
